@@ -11,9 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/-ramyashree--2r0-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramyashree-2r0/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-Ramyashree--20-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ramyashree-20)&nbsp;
 [![Gmail](https://img.shields.io/badge/-ramyashreeiyer04@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ramyashreeiyer04@gmail.com)&nbsp;
-[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square&logo=ieee&logoColor=white)](#)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ramyashree-20&color=7c3aed&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -28,35 +26,6 @@ I'm currently interning as an **AI Product Developer at Rooman Technologies**, w
 My academic home is **Cambridge Institute of Technology** (CGPA: 8.7), where I've been deep in the world of deep learning, NLP, computer vision, and more recently — **Generative AI**. I've published in **IEEE** on AI + IoT (Medibot), which was a proud milestone.
 
 When it comes to GenAI, I'm most excited about **RAG pipelines**, **agentic systems**, and making LLMs do real work beyond just chatting. I love the intersection of backend engineering and AI — building the plumbing that makes smart systems actually run.
-
----
-
-## 🚀 Things I've built
-
-### 🤖 [resume-analyzer-nlp](https://github.com/Ramyashree-20/resume-analyzer-nlp)
-> *GPT-4o-mini + SerpAPI + NLP → your personal AI career coach*
-
-This started as a curiosity — *can an LLM actually understand how well a resume fits a job description?* Turns out, with the right prompt engineering and embedding-based semantic matching, it absolutely can. The app takes your resume (PDF/DOCX), pulls in live job listings via SerpAPI, scores the match, highlights keyword gaps, and then an AI chatbot walks you through what to fix. Built it end-to-end in Streamlit with a custom CSS UI. Pretty proud of how the chatbot coaching piece turned out.
-
-`GPT-4o-mini` `Embeddings` `SerpAPI` `PyPDF2` `Streamlit` `Prompt Engineering`
-
----
-
-### 👶 [Smart-Cradle-for-baby-monitoring](https://github.com/Ramyashree-20/Smart-Cradle-for-baby-monitoring) &nbsp;·&nbsp; [🌐 Live Demo](https://smart-cradle-for-baby-monitoring-1.onrender.com)
-> *CNN + TFLite + Raspberry Pi → a baby monitor that actually thinks*
-
-This one is close to my heart — it's a full AI + IoT system that monitors a baby's state in real time. The core is a **CNN classifier trained on 3000+ labeled images** that detects whether a baby is sleeping, awake, or crying. Layer on top of that a **YAMNet TFLite audio model** for cry detection, a **Random Forest sleep pattern predictor**, and live video via OpenCV on Raspberry Pi — and you have something genuinely useful for new parents. Push notifications via Pushover API, a voice chatbot for baby Q&A, vaccination reminders — it's a complete system. Deployed as a PWA on Render.
-
-`CNN` `TFLite` `YAMNet` `Random Forest` `OpenCV` `Flask` `Raspberry Pi` `PWA`
-
----
-
-### 🎙️ [interview-agent](https://github.com/Ramyashree-20/interview-agent)
-> *Agentic AI that interviews you, evaluates you, and tells you how you did*
-
-An AI interview agent that reads your resume, generates contextual questions, listens to your answers (voice input!), and evaluates your responses with detailed scoring. The agentic flow makes it feel like a real interview — it adapts, follows up, and at the end produces a full evaluation report. Great for mock prep and for anyone who wants honest feedback from an AI before facing the real thing.
-
-`Agentic AI` `LLMs` `Voice I/O` `Prompt Engineering` `Streamlit`
 
 ---
 
@@ -84,20 +53,6 @@ On the GenAI side, I've worked hands-on with **prompt engineering**, **RAG**, **
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ramyashree-20&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a855f7&amp;icon_color=ec4899&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramyashree-20&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a855f7&amp;text_color=c9d1d9&amp;hide=jupyter%20notebook&amp;langs_count=6" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Ramyashree-20&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a855f7&amp;fire=ec4899&amp;currStreakLabel=a855f7&amp;dates=c9d1d9&amp;sideLabels=a855f7" width="55%"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramyashree-20&amp;bg_color=0d1117&amp;color=a855f7&amp;line=ec4899&amp;point=ffffff&amp;area=true&amp;area_color=7c3aed&amp;hide_border=true&amp;radius=8" width="90%"/>
 
