@@ -21,7 +21,7 @@
 
 I'm **Ramya Shree R**, a final-year **AI & ML engineering student** from Bengaluru, and I genuinely love building things that are powered by intelligence — whether that's an LLM that coaches you through job applications, a baby monitor that learns sleep patterns, or an AI that interviews you and gives real feedback.
 
-I'm currently interning as an **AI Product Developer at Rooman Technologies**, where I work on building enterprise-grade intelligent applications using Django, React, and Docker — and I get to wire in AI automation workflows into real ERP systems. It's the kind of work where you see your code actually doing something meaningful in production, which is exciting.
+I'm have recently completed my internship as an **AI Product Developer at Rooman Technologies**, where I work on building enterprise-grade intelligent applications using Django, React, and Docker — and I get to wire in AI automation workflows into real ERP systems. It's the kind of work where you see your code actually doing something meaningful in production, which is exciting.
 
 My academic home is **Cambridge Institute of Technology** (CGPA: 8.7), where I've been deep in the world of deep learning, NLP, computer vision, and more recently — **Generative AI**. I've published in **IEEE** on AI + IoT (Medibot), which was a proud milestone.
 
