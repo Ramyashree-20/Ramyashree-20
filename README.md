@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,50:a855f7,100:ec4899&amp;height=220&amp;section=header&amp;text=Hey%2C%20I'm%20Ramya%20Shree%20%F0%9F%91%8B&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Builder%20of%20Intelligent%20Systems&amp;descSize=16&amp;descAlignY=60&amp;descColor=e9d5ff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+GenAI+apps+that+actually+work+%F0%9F%A4%96;RAG+%7C+Embeddings+%7C+Agentic+AI+%7C+LLMs;Final+Year+AIML+%40+Cambridge+Institute+of+Tech;Published+in+IEEE+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+GenAI+apps+that+actually+work+%F0%9F%A4%96;RAG+%7C+Embeddings+%7C+Agentic+AI+%7C+LLMs;Final+Year+AIML+%40+Cambridge+Institute+of+Tech;Published+3++Research Papers+in+IEEE+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,13 +19,13 @@
 
 ## 🧠 A little about me...
 
-I'm **Ramya Shree R**, a final-year **AI & ML engineering student** from Bengaluru, and I genuinely love building things that are powered by intelligence — whether that's an LLM that coaches you through job applications, a baby monitor that learns sleep patterns, or an AI that interviews you and gives real feedback.
+I'm **Ramya Shree R**, a final-year **AI & ML engineering student** from Bengaluru, and I genuinely love building things that are powered by intelligence whether that's an LLM that coaches you through job applications, a baby monitor that learns sleep patterns, or an AI that interviews you and gives real feedback.
 
-I'm have recently completed my internship as an **AI Product Developer at Rooman Technologies**, where I work on building enterprise-grade intelligent applications using Django, React, and Docker — and I get to wire in AI automation workflows into real ERP systems. It's the kind of work where you see your code actually doing something meaningful in production, which is exciting.
+I'm have recently completed my internship as an **AI Product Developer at Rooman Technologies**, where I work on building enterprise-grade intelligent applications using Django, React, and Docker and I get to wire in AI automation workflows into real ERP systems. It's the kind of work where you see your code actually doing something meaningful in production, which is exciting.
 
-My academic home is **Cambridge Institute of Technology** (CGPA: 8.7), where I've been deep in the world of deep learning, NLP, computer vision, and more recently — **Generative AI**. I've published in **IEEE** on AI + IoT (Medibot), which was a proud milestone.
+My academic home is **Cambridge Institute of Technology** (CGPA: 8.7), where I've been deep in the world of deep learning, NLP, computer vision, and more recently **Generative AI**. I have participated in multiple innovation and technology events and received recognition for my projects and ideas. I won the Best Project Award at the Visionary-X 2025 State Level Project Exhibition for my smart cradle project. I was also a winner in the Cyber Security Grand Challenge National Level MVP Stage, where I developed an AI-powered NFC security solution for wearables. In addition, i secured 2nd place in an inter-college event for designing an insightful real-world data dashboard.
 
-When it comes to GenAI, I'm most excited about **RAG pipelines**, **agentic systems**, and making LLMs do real work beyond just chatting. I love the intersection of backend engineering and AI — building the plumbing that makes smart systems actually run.
+When it comes to GenAI, I'm most excited about **RAG pipelines**, **agentic systems**, and making LLMs do real work beyond just chatting. I love the intersection of backend engineering and AI building the plumbing that makes smart systems actually run.
 
 ---
 
@@ -59,12 +59,6 @@ On the GenAI side, I've worked hands-on with **prompt engineering**, **RAG**, **
 </div>
 
 > 💡 *All stats update live and always reflect my latest GitHub activity.*
-
----
-
-## 📄 Publication
-
-I co-authored **"Medibot: An AI-Enabled IoT-Based Smart Pill Dispenser with App-Based Dosage and Expiration Alerts"**, published in **IEEE**. It's a smart pill dispenser that combines IoT hardware with AI-driven alerts for dosage schedules and medication expiry — exactly the kind of real-world AI + hardware application I love working on.
 
 ---
 
