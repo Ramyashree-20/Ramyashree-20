@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,50:a855f7,100:ec4899&amp;height=220&amp;section=header&amp;text=Hey%2C%20I'm%20Ramya%20Shree%20%F0%9F%91%8B&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Builder%20of%20Intelligent%20Systems&amp;descSize=16&amp;descAlignY=60&amp;descColor=e9d5ff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+GenAI+apps+that+actually+work+%F0%9F%A4%96;RAG+%7C+Embeddings+%7C+Agentic+AI+%7C+LLMs;Final+Year+AIML+%40+Cambridge+Institute+of+Tech;Published+Research Papers+in+IEEE+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Building+GenAI+apps+that+actually+work;RAG+%7C+Embeddings+%7C+Agentic+AI+%7C+LLMs;Final+Year+AIML+%40+Cambridge+Institute+of+Tech;Published+Research+Papers+in+IEEE"
+  alt="Typing SVG" />
 </a>
 
 <br/><br/>
